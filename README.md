@@ -1,4 +1,4 @@
- # 👋 Hello, I'm Jayanth Chintalapti
+ # 👋 Hello, I'm Jayanth Chintalapati
 
 I'm a passionate software developer with a keen interest in Data Structures & Algorithms, Web Development and AI. Currently, I'm a 3rd-year BTech student working towards becoming an SDE at a product-based company.
 
