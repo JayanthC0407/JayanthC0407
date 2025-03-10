@@ -23,7 +23,7 @@ As a **3rd-year BTech student at NIT Warangal**, I have a strong foundation in *
 ✔️ React.js | HTML | CSS | TailwindCSS
 
 ### **Backend & Databases:**
-✔️ Node.js | Express.js | Firebase | MongoDB | SQL
+✔️ Node.js | Express.js | MongoDB | SQL
 
 ### **DevOps & Tools:**
 ✔️ Git & GitHub | Debugging & Testing 
