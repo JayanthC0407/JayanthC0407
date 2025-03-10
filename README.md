@@ -26,7 +26,7 @@ As a **3rd-year BTech student at NIT Warangal**, I have a strong foundation in *
 ✔️ Node.js | Express.js | Firebase | MongoDB | SQL
 
 ### **DevOps & Tools:**
-✔️ Git & GitHub | Debugging & Testing | Agile & SDLC
+✔️ Git & GitHub | Debugging & Testing 
 
 ---
 
